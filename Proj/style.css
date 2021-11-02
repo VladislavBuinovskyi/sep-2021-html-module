@@ -1,0 +1,215 @@
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+html, body {
+    overflow-x: hidden;
+}
+.header__menu_verh {
+    width: 1920px;
+    height: 36px;
+    left: 0px;
+    top: 0px;
+    background: #0F2438;
+}
+.vector {
+    display: flex;
+    padding-left: 14.84%;
+    padding-right: 14.84%;
+    padding-top: 8px;
+    margin-bottom: 0%;
+}
+.nav {
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+}
+.navtwo {
+    padding-left: 25%;
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+}
+.info {
+    width: 1920px;
+    height: 196px;
+    background: #FFFFFF;
+}
+.one {
+    display: flex;
+    column-gap: 65px;
+    justify-content: center;
+}
+.emblem {
+    display: flex;
+    column-gap: 10px;
+}
+
+.emblemone {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+.emblemtwo {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+.whatsp {
+    width: 204px;
+    height: 30px;
+    margin-top: 25px;
+    background: #E1EFD0;
+
+}
+.whtim {
+    margin-top: 2.5px;
+    padding-left: 25px;
+}
+.telephon {
+    margin-top: 25px;
+}
+.telephon img {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+
+.two {
+    display: flex;
+    column-gap: 65px;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.input-group {
+    width: 20%;
+}
+.btn-success {
+    background-color: #0d6efd;
+}
+.emblemthre {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+
+.emblemfour {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+
+.emblemfive {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+.detali {
+    display: flex;
+    padding-left: 250px;
+    width: 1920px;
+}
+#carouselExampleIndicators {
+    width: 1000px;
+}
+
+.karuseldetali {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.maslo {
+    display: flex;
+}
+
+.filter {
+    display: flex;
+}
+
+.viborki {
+    display: flex;
+    align-items: center;
+    padding-top: 25px;
+    column-gap: 20px;
+    padding-left: 150px;
+}
+
+.oknatovara {
+    display: flex;
+    padding-top: 20px;
+    column-gap: 15px;
+}
+
+.oknatovaratwo {
+    display: flex;
+    padding-top: 20px;
+    column-gap: 15px;
+}
+
+.pokazateshe {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.newsbloks {
+    display: flex;
+}
+
+.konec {
+    width: 1920px;
+    height: 408px;
+    background: #0C1A2A;
+    display: flex;
+}
+
+.konecone {
+    color: #868DAC;
+    display: flex;
+    column-gap: 20px;
+    padding-top: 50px;
+    padding-left: 180px;
+}
+
+.podtablethre {
+    padding-top: 50px;
+}
+
+.konectwo {
+    display: flex;
+    flex-direction: column;
+    color: #868DAC;
+    padding-top: 50px;
+    padding-left: 150px;
+
+}
+
+.konectwoverh {
+    display: flex;
+}
+
+.nav__item__obratka {
+    padding-top: 23px;
+    padding-left: 20px;
+}
+
+
+.rovno {
+    display: flex;
+}
+
+.form-control {
+    width: 450px;
+}
+
+.socseti {
+    display: flex;
+    justify-content: end;
+    column-gap: 50px;
+    padding-top: 30px;
+}
+
