@@ -1,0 +1,113 @@
+@media screen and (max-width: 400px) {
+
+.vector, .detali, .karuseldetali  {
+    display: none;
+}
+
+.wrapper {
+    max-width: 340px;
+    padding: 0 10px;
+}
+
+.header__menu_verh {
+    width: 375px;
+    height: 36px;
+    left: 0px;
+    top: 0px;
+    background: #0F2438;
+}
+
+.vector_mobile {
+   display: flex;
+    padding-left: 10px;
+    column-gap: 10px;
+}
+
+.nav_mobile {
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.one, .two {
+    display: none;
+}
+
+.one_mobile {
+    display: flex;
+    padding-left: 10px;
+}
+.emblemone {
+    flex-direction: column;
+    padding-left: 75px;
+}
+
+.two_mobile {
+    width: 66%;
+    display: flex;
+    padding-top: 10px;
+}
+.mobile_menu {
+    display: flex;
+    padding-left: 10px;
+    column-gap: 20px;
+}
+
+.scep_mobile_one {
+    display: flex;
+    justify-content: center;
+}
+
+.scep_mobile_two {
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.scep_mobile_thre {
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.viborki {
+    display: flex;
+    justify-content:end;
+    padding-right: 35px;
+}
+
+.oknatovara, .oknatovaratwo {
+    display: flex;
+    flex-direction: column;
+    padding-top: 15px;
+}
+
+.newsbloks {
+    display: flex;
+    flex-direction: column;
+}
+
+.konec {
+    height:max-content;
+    display: flex;
+    flex-direction: column;
+}
+
+.konecone, .konectwo {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    padding-left: 15px;
+}
+
+.konectwoverh, .konectwoniz {
+    display: flex;
+    flex-direction: column;
+}
+
+.socseti {
+    display: flex;
+    justify-content:start;
+}
+}
